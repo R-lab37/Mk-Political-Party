@@ -1,6 +1,4 @@
-Certainly! Below is a sample `README.md` file for your Flutter app for GitHub. Please make sure to customize it with your specific app details, features, and instructions.
 
-```markdown
 # MK Political Party Membership Registration App
 
 Welcome to the MK Political Party Membership Registration App! This Flutter-based application facilitates the efficient registration and management of party members, providing a seamless experience for both prospective members and administrators.
